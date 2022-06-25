@@ -1,0 +1,1 @@
+.gitignore이 git status에 Changes to be committed에 new file로안잡혀서 만들었다. 왜냐면 이전에 그렇게 하고 다시 실행하는거여서 더 이상 .gitignore은 새로운 파일이 아니어서 그럴수도 있겠다.
